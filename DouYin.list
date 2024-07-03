@@ -18,3 +18,10 @@ DOMAIN-SUFFIX,ixiguavideo.com
 DOMAIN-SUFFIX,pstatp.com
 DOMAIN-SUFFIX,snssdk.com
 DOMAIN-SUFFIX,toutiao.com
+
+IP-CIDR,182.242.95.137/21,no-resolve
+IP-CIDR,113.62.123.60/21,no-resolve
+IP-CIDR,61.128.154.218/21,no-resolve
+IP-CIDR,113.141.161.113/21,no-resolve
+IP-CIDR,118.182.226.169/21,no-resolve
+IP-CIDR,42.81.24.100/21,no-resolve
