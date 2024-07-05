@@ -18,6 +18,7 @@ DOMAIN-SUFFIX,ixiguavideo.com
 DOMAIN-SUFFIX,pstatp.com
 DOMAIN-SUFFIX,snssdk.com
 DOMAIN-SUFFIX,toutiao.com
+DOMAIN-SUFFIX,douyinliving.com
 
 IP-CIDR,182.242.95.137/21,no-resolve
 IP-CIDR,113.62.123.60/21,no-resolve
@@ -49,4 +50,6 @@ IP-CIDR,125.64.128.243/21,no-resolve
 IP-CIDR,42.81.57.214/21,no-resolve
 IP-CIDR,113.62.113.45/21,no-resolve
 IP-CIDR,182.242.217.144/21,no-resolve
+IP-CIDR,36.102.221.214/21,no-resolve
+IP-CIDR,125.64.109.215/21,no-resolve
 
