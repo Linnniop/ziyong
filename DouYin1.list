@@ -72,3 +72,5 @@ IP-CIDR,171.220.231.10/21,no-resolve
 IP-CIDR,182.131.24.122/21,no-resolve
 IP-CIDR,182.243.27.225/21,no-resolve
 IP-CIDR,171.220.228.111/21,no-resolve
+IP-CIDR,118.213.159.214/21,no-resolve
+IP-CIDR,222.81.124.138/21,no-resolve
