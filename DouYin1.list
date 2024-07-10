@@ -100,8 +100,8 @@ IP-CIDR,219.151.137.11/32,no-resolve
 IP-CIDR,110.157.242.219/32,no-resolve
 IP-CIDR,118.112.229.218/32,no-resolve
 IP-CIDR,118.181.55.97/32,no-resolve
-
-
+IP-CIDR,118.121.193.236/32,no-resolve
+IP-CIDR,118.112.229.217/32,no-resolve
 
 
 
