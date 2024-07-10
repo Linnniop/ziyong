@@ -27,6 +27,7 @@ DOMAIN-SUFFIX,pangolin.snssdk.com
 DOMAIN-SUFFIX,partner.toutiao.com
 DOMAIN-SUFFIX,pglstatp-toutiao.com
 DOMAIN-SUFFIX,sm.toutiao.com
+DOMAIN-SUFFIX,bytedance.com
 
 
 #IP-CIDR
@@ -96,9 +97,9 @@ IP-CIDR,116.177.224.113/32,no-resolve
 IP-CIDR,219.151.137.104/32,no-resolve
 IP-CIDR,1.180.235.218/32,no-resolve
 IP-CIDR,219.151.137.11/32,no-resolve
-
-
-
+IP-CIDR,110.157.242.219/32,no-resolve
+IP-CIDR,118.112.229.218/32,no-resolve
+IP-CIDR,118.181.55.97/32,no-resolve
 
 
 
