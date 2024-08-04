@@ -1,7 +1,14 @@
 DOMAIN-SUFFIX,v1.mk
 DOMAIN-SUFFIX,steamtools.net
-DOMAIN-SUFFIX,sanfen.cc
 DOMAIN-SUFFIX,factorioprints.com
 DOMAIN-SUFFIX,factorio.com
 DOMAIN-SUFFIX,pythonhosted.org
 DOMAIN-SUFFIX,nodejs.org
+DOMAIN-SUFFIX,dextools.io
+
+
+##机场
+DOMAIN-SUFFIX,jindouyun88.life
+DOMAIN-SUFFIX,sanfen.cc
+DOMAIN-SUFFIX,ooicat.uk
+DOMAIN-SUFFIX,huajicloud.com
