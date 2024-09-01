@@ -15,7 +15,13 @@ DOMAIN-SUFFIX,slither.com
 DOMAIN-KEYWORD,cloudflare
 
 
-
+##币
+DOMAIN-SUFFIX,biconomy.com
+DOMAIN-SUFFIX,bscscan.com
+DOMAIN-SUFFIX,etherscan.com
+DOMAIN-SUFFIX,dextools.io
+DOMAIN-SUFFIX,raydium.io
+DOMAIN-SUFFIX,blockchair.com
 
 ##机场
 DOMAIN-SUFFIX,jindouyun88.life
