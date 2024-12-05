@@ -18,7 +18,7 @@ DOMAIN-SUFFIX,alpinelinux.org
 DOMAIN-SUFFIX,1fichier.com
 DOMAIN,time.windows.com
 DOMAIN,imgur.com
-DOMAIN,reshade.me
+DOMAIN-SUFFIX,reshade.me
 
 
 ##game
