@@ -63,6 +63,7 @@ DOMAIN-SUFFIX,etherscan.com
 DOMAIN-SUFFIX,dextools.io
 DOMAIN-SUFFIX,raydium.io
 DOMAIN-SUFFIX,blockchair.com
+DOMAIN-KEYWORD,biconomy
 
 ##机场
 DOMAIN-SUFFIX,jindouyun88.life
