@@ -40,6 +40,8 @@ DOMAIN-SUFFIX,movie-pilot.org
 DOMAIN-SUFFIX,vscode.dev
 DOMAIN-SUFFIX,pbh-btn.com
 DOMAIN-SUFFIX,dnschecker.org
+DOMAIN-SUFFIX,themoviedb.org
+DOMAIN-SUFFIX,thetvdb.com
 
 ##game
 DOMAIN-SUFFIX,gamer520.com
