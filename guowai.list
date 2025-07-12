@@ -43,6 +43,7 @@ DOMAIN-SUFFIX,dnschecker.org
 DOMAIN-SUFFIX,themoviedb.org
 DOMAIN-SUFFIX,thetvdb.com
 DOMAIN-SUFFIX,memrise.com
+DOMAIN-SUFFIX,tmdb.org
 
 ##game
 DOMAIN-SUFFIX,gamer520.com
