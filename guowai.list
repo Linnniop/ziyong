@@ -41,11 +41,13 @@ DOMAIN-SUFFIX,vscode.dev
 DOMAIN-SUFFIX,pbh-btn.com
 DOMAIN-SUFFIX,dnschecker.org
 DOMAIN-SUFFIX,themoviedb.org
-DOMAIN-SUFFIX,thetvdb.com
 DOMAIN-SUFFIX,memrise.com
 DOMAIN-SUFFIX,tmdb.org
 DOMAIN-SUFFIX,python.org
 DOMAIN-SUFFIX,traderie.com
+DOMAIN-SUFFIX,thetvdb.com
+DOMAIN-SUFFIX,api4.thetvdb.com
+DOMAIN-SUFFIX,artworks.thetvdb.com
 
 ##game
 DOMAIN-SUFFIX,gamer520.com
@@ -116,3 +118,4 @@ IP-CIDR,1.0.0.1/32,no-resolve
 IP-CIDR,185.222.222.222/32,no-resolve
 IP-CIDR,208.67.222.222/32,no-resolve
 IP-CIDR,208.67.220.220/32,no-resolve
+
