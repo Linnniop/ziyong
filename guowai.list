@@ -120,6 +120,36 @@ DOMAIN-KEYWORD,idsduf.com
 DOMAIN-KEYWORD,mmcks.top
 DOMAIN-KEYWORD,kitty.sb
 
+##DSH开发常用（会话实测慢/不通）
+DOMAIN-SUFFIX,raw.githubusercontent.com
+DOMAIN-SUFFIX,api.github.com
+DOMAIN-SUFFIX,githubusercontent.com
+DOMAIN-SUFFIX,gist.githubusercontent.com
+DOMAIN-SUFFIX,registry.npmjs.org
+DOMAIN-SUFFIX,npmjs.org
+DOMAIN-SUFFIX,pypi.org
+DOMAIN-SUFFIX,files.pythonhosted.org
+DOMAIN-SUFFIX,deepwiki.com
+DOMAIN-SUFFIX,gh-proxy.com
+DOMAIN-SUFFIX,jsdelivr.net
+
+##固件下载（实测 ~20KB/s）
+DOMAIN-SUFFIX,immortalwrt.org
+DOMAIN-SUFFIX,downloads.immortalwrt.org
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 # 国外DNS
