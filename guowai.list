@@ -92,7 +92,7 @@ DOMAIN-SUFFIX,gofile.io
 DOMAIN-SUFFIX,pathofexile.com
 DOMAIN-SUFFIX,pzfans.com
 DOMAIN-SUFFIX,ryujinx.app
-
+DOMAIN-SUFFIX,nxbrew.net
 
 
 
@@ -119,6 +119,11 @@ DOMAIN-KEYWORD,jindouyun
 DOMAIN-KEYWORD,idsduf.com
 DOMAIN-KEYWORD,mmcks.top
 DOMAIN-KEYWORD,kitty.sb
+
+
+
+
+
 
 ##DSH开发常用（会话实测慢/不通）
 DOMAIN-SUFFIX,raw.githubusercontent.com
